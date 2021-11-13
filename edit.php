@@ -29,7 +29,7 @@
                 <input type="text" name="lname" class="form-control" value="<?php echo $customer['lname']; ?>" required="">
               </div>              
               <div class="form-group">
-                <label for="exampleInputEmail1">Email address</label>
+                <label for="exampleInputEmail1">Email addres</label>
                 <input type="email" name="email" class="form-control" value="<?php echo $customer['email']; ?>" required="">
               </div>
               <button type="submit" class="btn btn-primary" value="submit">Submit</button>
